@@ -31,6 +31,9 @@ A requirements.txt file is provided, in order to install the requirements please
 
 ## Authors:
 [1] Ass.Prof.Dr. Emrah Inan
+
 [2] Malik Nizar Asad Al Hinnawi
+
 [3] Çağın Tunç
+
 [4] Halil Can Uyanık
