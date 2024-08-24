@@ -3,7 +3,7 @@
 This repo is intended to share experiments used in the paper "Syllabus Generation for Computer Science Lectures: A Hierarchical Approach".
 
 ## Content:
-- [316-Syllabus-Generator](#316-syllabus-generator)
+- [416-Syllabus-Generator](#316-syllabus-generator)
   - [Content:](#content)
   - [Abstract:](#abstract)
   - [Dependencies:](#dependencies)
